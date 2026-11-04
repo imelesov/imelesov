@@ -1,26 +1,29 @@
 # Привет, я Абдула 👋
 
-**mls / melesov** — начинающий веб-разработчик и разработчик Telegram-ботов. Автор персонального ИИ-ассистента «Альфред» с графовой памятью.
+17-летний разработчик из Дагестана (Махачкала). Пишу код с 12 лет. Прошел путь от игровых модов до создания локальных пет-проектов на Python.
 
-Интересуюсь веб-разработкой, искусственным интеллектом и автоматизацией. Делаю собственные проекты и учусь создавать продукты, которыми пользуются люди.
+### 📖 Обо мне
+- **Возраст:** 17 лет.
+- **Локация:** Россия, Махачкала (Дагестан).
+- **Стек:** Python, JavaScript, HTML, CSS, Pawn (CRMP), Aiogram, NetworkX, Groq API, Obsidian.
 
-## Чем занимаюсь
+### 🗺️ Краткая хронология
+- **2021 (12 лет):** Начал писать скрипты на Pawn для CRMP/SA-MP.
+- **2022 (13 лет):** Увлекся UI/UX дизайном в Figma для игровых серверов.
+- **2023 (14 лет):** Перешел в веб-разработку (HTML, CSS, JS).
+- **2024 (15 лет):** Изучил Python и Aiogram. Начал делать и продавать Telegram-ботов.
+- **2025 (16 лет):** Создал PostBot. Начал писать технические статьи на VC.ru.
+- **2026 (17 лет):** Разработал пет-проект — локального ассистента «Альфред» с графовой памятью.
 
-- **Веб:** HTML, CSS, JavaScript
-- **Python:** Telegram-боты на Aiogram, ИИ-проекты
-- **Раньше:** проекты для CRMP и SA-MP (Pawn)
+### 🚀 Мои проекты
+*   **Альфред (Alfred)** — Мой пет-проект. Локальный ассистент, который хранит память в виде графа и синхронизируется с Obsidian. Написан на Python. [Посмотреть на сайте](https://melesov.gitverse.site/alfred.html)
+*   **PostBot** — Telegram-бот для управления публикациями в каналах (Aiogram 3.x). [Репозиторий](https://github.com/imelesov/PostBot-by-melesov-)
+*   **tiltok-download-video** — Python-утилита для скачивания видео из TikTok. [Репозиторий](https://github.com/imelesov/tiltok-download-video)
 
-## Проекты
+### 🌐 Мой сайт
+Портфолио, статьи и архив старых работ: **[melesov.gitverse.site](https://melesov.gitverse.site/)**
 
-- **[Альфред](https://vc.ru/dev/3227646-sozdanie-ii-assistenta-s-grafovoy-pamyatyu)** — персональный ИИ-ассистент с графовой памятью: запоминает факты, цели и связи между событиями, а его «мозг» можно увидеть в виде графа в Obsidian. Python, Groq API. [Telegram-канал проекта](https://t.me/alfred_ai_assistant)
-- **[PostBot](https://github.com/imelesov/PostBot-by-melesov-)** — Telegram-бот для создания и публикации постов в каналах: фото, текст, кнопки, несколько каналов, предпросмотр. Aiogram 3.x
-- **[tiltok-download-video](https://github.com/imelesov/tiltok-download-video)** — Python-утилита для скачивания видео из TikTok
-- **[Сайт-портфолио](https://melesov.netlify.app/)** — учебные веб-проекты и раздел «Мои проекты»
-
-## Контакты
-
-- Telegram: [@melesov](https://t.me/melesov)
-- Telegram-каналы: [@melesovcrmp](https://t.me/melesovcrmp) · [ссылки](https://t.me/linksMLS)
-- vc.ru: [melesov](https://vc.ru/id6086617)
-- TikTok: [@02.melesov](https://www.tiktok.com/@02.melesov)
-- Сайт: [melesov.netlify.app](https://melesov.netlify.app/)
+### 📫 Контакты
+- **Telegram:** [@melesov](https://t.me/melesov)
+- **Канал:** [@alfred_ai_assistant](https://t.me/alfred_ai_assistant)
+- **VC.ru:** [melesov](https://vc.ru/id6086617)
